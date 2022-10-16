@@ -1,0 +1,41 @@
+body {
+    background-color: #f6f5f5;
+    font-family: "Montserrat",sans-serif;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.profile-button {
+    color: black;
+    background-color: #f1f1f1;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    color: white;
+    background-color: #4d4d4d;
+}
+
+.profile-button:focus {
+    color: white;
+    background-color: #4d4d4d;
+}
+.ava {
+    vertical-align: middle;
+    width: 260px;
+    height: 300px;
+    border-radius: 70%;
+}
+
+.labels {
+    font-size: 11px
+}
+
+.shadow{
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+.reviewBox{
+    margin: 15px;
+}
